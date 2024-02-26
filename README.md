@@ -1,5 +1,7 @@
 # gigasite
 
+https://gigasite.tends.to
+
 the answer to the question, "How long until we see webpages in the gigabytes?"
 
 start server:
